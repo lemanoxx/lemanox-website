@@ -1,0 +1,58 @@
+div#content div.leftbox a{
+	padding: 35px;
+}
+
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+
+div#content div h1, p, iframe{
+	margin: 35px;
+}
+
+
+div#content div.leftbox{
+	vertical-align: top;
+	background-color: #8F7F90;
+}
+
+
+div#content div.rightbox{
+	background-color: #8F7F90;
+	padding-left: 72px;
+}
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+
+}
+
+nav.menu-nav ul li.btn a{
+	color: #ffffff ;
+	text-decoration: none;
+	background-color: #8F7F90 ;
+	padding: 10px;
+	border-radius: 10%;
+
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #8F7F90;
+	background-color: white;
+	transition: 300ms;
+}
+
+header{
+	background-color: #8F7F90;
+}
+
+footer{
+	background-color: #8F7F90;
+	padding: 20px;
+}
+
